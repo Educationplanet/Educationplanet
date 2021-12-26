@@ -1,0 +1,502 @@
+0000.001 (0) Opened log file at time: Thu, 23 Dec 2021 16:06:38 +0000 on https://educationplanet.great-site.net
+0000.136 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.59 WP: 5.8.2 PHP: 7.4.8 (apache2handler, Linux freeweb29.byetcluster.com 4.18.0-193.28.1.lve1.el8.x86_64 #1 SMP Thu Apr 22 16:50:24 EDT 2021 x86_64) MySQL: 5.7.34-37 (max packet size=3145728) WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 60 memory_limit: 128M (used: 55.6M | 40.5M) multisite: N openssl: OpenSSL 1.1.1g  21 Apr 2020 mcrypt: N LANG: C ZipArchive::addFile: Y
+0000.139 (0) Free space on disk containing Updraft's temporary directory: Unknown
+0000.147 (0) Deleting old log file: log.e93ce69c3bb5.txt
+0000.271 (0) Tasks: Backup files: 1 (schedule: weekly) Backup DB: 1 (schedule: weekly)
+0000.293 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.295 (0) Set semaphore last lock (fd) time to 2021-12-23 16:06:39
+0000.296 (0) Semaphore lock (fd) complete
+0000.299 (0) Backup run: resumption=0, nonce=906dd78ab679, file_nonce=906dd78ab679 begun at=1640275598 (1s ago), job type=backup
+0000.301 (0) Scheduling a resumption (1) after 300 seconds (1640275899) in case this run gets aborted
+0000.871 (0) Checking if we have a zip executable available
+0000.878 (0) Creation of backups of directories: beginning
+0000.943 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0072.095 (0) Total entities for the zip file: 1021 directories, 4785 files (0 skipped as non-modified), 90.2 MB
+0072.294 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0075.269 (0) Zip: backup_2021-12-23-1606_Education_Planet_906dd78ab679-plugins.zip.tmp: 100 files added (on-disk size: 175.6 KB)
+0075.287 (0) Zip: backup_2021-12-23-1606_Education_Planet_906dd78ab679-plugins.zip.tmp: 200 files added (on-disk size: 175.6 KB)
+0075.310 (0) Zip: backup_2021-12-23-1606_Education_Planet_906dd78ab679-plugins.zip.tmp: 300 files added (on-disk size: 175.6 KB)
+0075.329 (0) Zip: backup_2021-12-23-1606_Education_Planet_906dd78ab679-plugins.zip.tmp: 400 files added (on-disk size: 175.6 KB)
+0075.348 (0) Zip: backup_2021-12-23-1606_Education_Planet_906dd78ab679-plugins.zip.tmp: 500 files added (on-disk size: 175.6 KB)
+0075.367 (0) Zip: backup_2021-12-23-1606_Education_Planet_906dd78ab679-plugins.zip.tmp: 600 files added (on-disk size: 175.6 KB)
+0075.385 (0) Zip: backup_2021-12-23-1606_Education_Planet_906dd78ab679-plugins.zip.tmp: 700 files added (on-disk size: 175.6 KB)
+0075.403 (0) Zip: backup_2021-12-23-1606_Education_Planet_906dd78ab679-plugins.zip.tmp: 800 files added (on-disk size: 175.6 KB)
+0075.420 (0) Zip: backup_2021-12-23-1606_Education_Planet_906dd78ab679-plugins.zip.tmp: 900 files added (on-disk size: 175.6 KB)
+0075.438 (0) Zip: backup_2021-12-23-1606_Education_Planet_906dd78ab679-plugins.zip.tmp: 1000 files added (on-disk size: 175.6 KB)
+0075.439 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (11.3 MB, 4785 files batched, 1001 (1002) added so far); re-opening (prior size: 175.6 KB)
+0134.823 (0) Zip: backup_2021-12-23-1606_Education_Planet_906dd78ab679-plugins.zip.tmp: 1100 files added (on-disk size: 2474.1 KB)
+0134.975 (0) Zip: backup_2021-12-23-1606_Education_Planet_906dd78ab679-plugins.zip.tmp: 1200 files added (on-disk size: 2474.1 KB)
+0134.993 (0) Zip: backup_2021-12-23-1606_Education_Planet_906dd78ab679-plugins.zip.tmp: 1300 files added (on-disk size: 2474.1 KB)
+0135.009 (0) Zip: backup_2021-12-23-1606_Education_Planet_906dd78ab679-plugins.zip.tmp: 1400 files added (on-disk size: 2474.1 KB)
+0135.025 (0) Zip: backup_2021-12-23-1606_Education_Planet_906dd78ab679-plugins.zip.tmp: 1500 files added (on-disk size: 2474.1 KB)
+0135.041 (0) Zip: backup_2021-12-23-1606_Education_Planet_906dd78ab679-plugins.zip.tmp: 1600 files added (on-disk size: 2474.1 KB)
+0135.057 (0) Zip: backup_2021-12-23-1606_Education_Planet_906dd78ab679-plugins.zip.tmp: 1700 files added (on-disk size: 2474.1 KB)
+0135.110 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25 MB, 4785 files batched, 757 (1759) added so far); re-opening (prior size: 2474.1 KB)
+0200.222 (0) A useful amount of data was added after this amount of zip processing: 66.1 s (normalised: 66.1 s, rate: 387.4 KB/s)
+0200.458 (0) Zip: backup_2021-12-23-1606_Education_Planet_906dd78ab679-plugins.zip.tmp: 1800 files added (on-disk size: 10115.5 KB)
+0200.592 (0) Zip: backup_2021-12-23-1606_Education_Planet_906dd78ab679-plugins.zip.tmp: 1900 files added (on-disk size: 10115.5 KB)
+0200.872 (0) Zip: backup_2021-12-23-1606_Education_Planet_906dd78ab679-plugins.zip.tmp: 2000 files added (on-disk size: 10115.5 KB)
+0201.119 (0) Zip: backup_2021-12-23-1606_Education_Planet_906dd78ab679-plugins.zip.tmp: 2100 files added (on-disk size: 10115.5 KB)
+0201.153 (0) Zip: backup_2021-12-23-1606_Education_Planet_906dd78ab679-plugins.zip.tmp: 2200 files added (on-disk size: 10115.5 KB)
+0201.343 (0) Zip: backup_2021-12-23-1606_Education_Planet_906dd78ab679-plugins.zip.tmp: 2300 files added (on-disk size: 10115.5 KB)
+0201.677 (0) Zip: backup_2021-12-23-1606_Education_Planet_906dd78ab679-plugins.zip.tmp: 2400 files added (on-disk size: 10115.5 KB)
+0201.868 (0) Zip: backup_2021-12-23-1606_Education_Planet_906dd78ab679-plugins.zip.tmp: 2500 files added (on-disk size: 10115.5 KB)
+0202.074 (0) Zip: backup_2021-12-23-1606_Education_Planet_906dd78ab679-plugins.zip.tmp: 2600 files added (on-disk size: 10115.5 KB)
+0202.191 (0) Zip: backup_2021-12-23-1606_Education_Planet_906dd78ab679-plugins.zip.tmp: 2700 files added (on-disk size: 10115.5 KB)
+0202.208 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (15.6 MB, 4785 files batched, 1001 (2760) added so far); re-opening (prior size: 10115.5 KB)
+0255.017 (0) Zip: backup_2021-12-23-1606_Education_Planet_906dd78ab679-plugins.zip.tmp: 2800 files added (on-disk size: 16828.6 KB)
+0255.053 (0) Zip: backup_2021-12-23-1606_Education_Planet_906dd78ab679-plugins.zip.tmp: 2900 files added (on-disk size: 16828.6 KB)
+0255.147 (0) Zip: backup_2021-12-23-1606_Education_Planet_906dd78ab679-plugins.zip.tmp: 3000 files added (on-disk size: 16828.6 KB)
+0255.253 (0) Zip: backup_2021-12-23-1606_Education_Planet_906dd78ab679-plugins.zip.tmp: 3100 files added (on-disk size: 16828.6 KB)
+0255.562 (0) Zip: backup_2021-12-23-1606_Education_Planet_906dd78ab679-plugins.zip.tmp: 3200 files added (on-disk size: 16828.6 KB)
+0255.972 (0) Zip: backup_2021-12-23-1606_Education_Planet_906dd78ab679-plugins.zip.tmp: 3300 files added (on-disk size: 16828.6 KB)
+0256.554 (0) Zip: backup_2021-12-23-1606_Education_Planet_906dd78ab679-plugins.zip.tmp: 3400 files added (on-disk size: 16828.6 KB)
+0256.841 (0) Zip: backup_2021-12-23-1606_Education_Planet_906dd78ab679-plugins.zip.tmp: 3500 files added (on-disk size: 16828.6 KB)
+0257.134 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (22.5 MB, 792 (3552) files added so far); re-opening (prior size: 16828.6 KB)
+0323.724 (0) The time we have been running (323.7) is approaching the resumption interval (300) - increasing resumption interval to 354
+0324.062 (0) Zip: backup_2021-12-23-1606_Education_Planet_906dd78ab679-plugins.zip.tmp: 3600 files added (on-disk size: 23067.3 KB)
+0324.594 (0) Zip: backup_2021-12-23-1606_Education_Planet_906dd78ab679-plugins.zip.tmp: 3700 files added (on-disk size: 23067.3 KB)
+0325.068 (0) Zip: backup_2021-12-23-1606_Education_Planet_906dd78ab679-plugins.zip.tmp: 3800 files added (on-disk size: 23067.3 KB)
+0325.628 (0) Zip: backup_2021-12-23-1606_Education_Planet_906dd78ab679-plugins.zip.tmp: 3900 files added (on-disk size: 23067.3 KB)
+0326.141 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (6.2 MB, 433 (3985) files added so far); re-opening (prior size: 23067.3 KB)
+0369.594 (0) The time we have been running (369.6) is approaching the resumption interval (354) - increasing resumption interval to 400
+0369.665 (0) Zip: backup_2021-12-23-1606_Education_Planet_906dd78ab679-plugins.zip.tmp: 4000 files added (on-disk size: 24864.9 KB)
+0370.346 (0) Zip: backup_2021-12-23-1606_Education_Planet_906dd78ab679-plugins.zip.tmp: 4100 files added (on-disk size: 24864.9 KB)
+0370.970 (0) Zip: backup_2021-12-23-1606_Education_Planet_906dd78ab679-plugins.zip.tmp: 4200 files added (on-disk size: 24864.9 KB)
+0371.551 (0) Zip: backup_2021-12-23-1606_Education_Planet_906dd78ab679-plugins.zip.tmp: 4300 files added (on-disk size: 24864.9 KB)
+0372.011 (0) Zip: backup_2021-12-23-1606_Education_Planet_906dd78ab679-plugins.zip.tmp: 4400 files added (on-disk size: 24864.9 KB)
+0372.121 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.5 MB, 485 (4470) files added so far); re-opening (prior size: 24864.9 KB)
+0411.674 (0) The time we have been running (411.7) is approaching the resumption interval (400) - increasing resumption interval to 442
+0412.007 (0) Zip: backup_2021-12-23-1606_Education_Planet_906dd78ab679-plugins.zip.tmp: 4500 files added (on-disk size: 25739.9 KB)
+0412.727 (0) Zip: backup_2021-12-23-1606_Education_Planet_906dd78ab679-plugins.zip.tmp: 4600 files added (on-disk size: 25739.9 KB)
+0413.757 (0) Zip: backup_2021-12-23-1606_Education_Planet_906dd78ab679-plugins.zip.tmp: 4700 files added (on-disk size: 25739.9 KB)
+0414.124 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (6.3 MB, 291 (4761) files added so far); re-opening (prior size: 25739.9 KB)
+0460.022 (0) The time we have been running (460) is approaching the resumption interval (442) - increasing resumption interval to 491
+0497.611 (0) The time we have been running (497.6) is approaching the resumption interval (491) - increasing resumption interval to 528
+0497.994 (0) Created plugins zip (0) - 27264.2 KB in 497 s (54.9 KB/s) (sha1: 9181bb18d71e374452338ddc37bafc7bd6ea3438, sha256: 279b2f1496c9edbbab725384602d84e41262d8b57b21c93a4ce7dc034d3a6406)
+0497.997 (0) Beginning creation of dump of themes (split every: 400 MB)
+0503.454 (0) Total entities for the zip file: 375 directories, 972 files (0 skipped as non-modified), 26.4 MB
+0503.457 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0503.552 (0) The time we have been running (503.5) is approaching the resumption interval (528) - increasing resumption interval to 534
+0503.570 (0) Zip: backup_2021-12-23-1606_Education_Planet_906dd78ab679-themes.zip.tmp: 100 files added (on-disk size: 64 KB)
+0503.584 (0) Zip: backup_2021-12-23-1606_Education_Planet_906dd78ab679-themes.zip.tmp: 200 files added (on-disk size: 64 KB)
+0503.599 (0) Zip: backup_2021-12-23-1606_Education_Planet_906dd78ab679-themes.zip.tmp: 300 files added (on-disk size: 64 KB)
+0503.612 (0) Zip: backup_2021-12-23-1606_Education_Planet_906dd78ab679-themes.zip.tmp: 400 files added (on-disk size: 64 KB)
+0503.625 (0) Zip: backup_2021-12-23-1606_Education_Planet_906dd78ab679-themes.zip.tmp: 500 files added (on-disk size: 64 KB)
+0503.640 (0) Zip: backup_2021-12-23-1606_Education_Planet_906dd78ab679-themes.zip.tmp: 600 files added (on-disk size: 64 KB)
+0503.654 (0) Zip: backup_2021-12-23-1606_Education_Planet_906dd78ab679-themes.zip.tmp: 700 files added (on-disk size: 64 KB)
+0503.668 (0) Zip: backup_2021-12-23-1606_Education_Planet_906dd78ab679-themes.zip.tmp: 800 files added (on-disk size: 64 KB)
+0503.679 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25 MB, 972 files batched, 870 (871) added so far); re-opening (prior size: 64 KB)
+0552.918 (0) The time we have been running (552.9) is approaching the resumption interval (534) - increasing resumption interval to 583
+0552.920 (0) A useful amount of data was added after this amount of zip processing: 49.8 s (normalised: 49.8 s, rate: 514.1 KB/s)
+0552.923 (0) Performance is good - will increase the amount of data we attempt to batch (time=49.8001830578, normalised_time=49.7996131464, max_time=552.920770884, data points known=1, old_max_bytes=26214400, new_max_bytes=174633721)
+0552.941 (0) Zip: backup_2021-12-23-1606_Education_Planet_906dd78ab679-themes.zip.tmp: 900 files added (on-disk size: 9261.2 KB)
+0568.708 (0) The time we have been running (568.7) is approaching the resumption interval (583) - increasing resumption interval to 599
+0568.824 (0) Created themes zip (0) - 9647.9 KB in 70.8 s (136.2 KB/s) (sha1: 5df3704f2250fd8917c17a87faf69522ff362dff, sha256: 180c4f46a1dae9895e4c92797f3ab966d8cf9e7b14b0d2709403ec97c07fe7a1)
+0568.827 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0568.828 (0) Looking for candidates to backup in: /home/vol16_2/epizy.com/epiz_29410704/htdocs/wp-content/uploads
+0568.829 (0) finding files: 2021: adding to list (1)
+0568.830 (0) finding files: astra: adding to list (2)
+0568.831 (0) finding files: astra-addon: adding to list (3)
+0568.832 (0) finding files: astra-sites: adding to list (4)
+0568.833 (0) finding files: woocommerce_uploads: adding to list (5)
+0568.833 (0) finding files: wc-logs: adding to list (6)
+0568.834 (0) finding files: woocommerce-placeholder.png: adding to list (7)
+0568.835 (0) finding files: woocommerce-placeholder-300x300.png: adding to list (8)
+0568.835 (0) finding files: woocommerce-placeholder-1024x1024.png: adding to list (9)
+0568.836 (0) finding files: woocommerce-placeholder-150x150.png: adding to list (10)
+0568.836 (0) finding files: woocommerce-placeholder-768x768.png: adding to list (11)
+0568.837 (0) finding files: wpforms: adding to list (12)
+0568.838 (0) finding files: 2019: adding to list (13)
+0568.838 (0) finding files: 2016: adding to list (14)
+0568.839 (0) finding files: 2020: adding to list (15)
+0568.840 (0) finding files: elementor: adding to list (16)
+0568.840 (0) finding files: woocommerce-placeholder-100x100.png: adding to list (17)
+0568.841 (0) finding files: woocommerce-placeholder-600x600.png: adding to list (18)
+0568.842 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0570.759 (0) Total entities for the zip file: 24 directories, 271 files (0 skipped as non-modified), 7.2 MB
+0570.772 (0) Zip: backup_2021-12-23-1606_Education_Planet_906dd78ab679-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0570.785 (0) Zip: backup_2021-12-23-1606_Education_Planet_906dd78ab679-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0590.489 (0) The time we have been running (590.5) is approaching the resumption interval (599) - increasing resumption interval to 621
+0590.570 (0) Created uploads zip (0) - 6947.4 KB in 21.7 s (319.8 KB/s) (sha1: 030bbee7f2f7b17afa8439bdcf79defce60d82a6, sha256: fcd92ebc5706b606dbe791c6695d5a053bcf2bfb8de851cf536b727b2255fbdb)
+0590.572 (0) Beginning backup of other directories found in the content directory (index: 0)
+0590.573 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0590.574 (0) Looking for candidates to backup in: /home/vol16_2/epizy.com/epiz_29410704/htdocs/wp-content
+0590.574 (0) finding files: index.php: adding to list (1)
+0590.575 (0) finding files: plugins: skipping: this is the plugins directory
+0590.576 (0) finding files: themes: skipping: this is the themes directory
+0590.576 (0) finding files: uploads: skipping: this is the uploads directory
+0590.577 (0) finding files: upgrade: skipping: excluded by options
+0590.578 (0) finding files: updraft: skipping: this is the updraft directory
+0590.582 (0) Total entities for the zip file: 0 directories, 1 files (0 skipped as non-modified), 0 MB
+0590.604 (0) Created others zip (0) - 0.1 KB in 0 s (6 KB/s) (sha1: bcd2a0a1240993715767bae8c2482e5087fb5727, sha256: f6629e98a1dd6cde7b45dbb4125062eeaaeebb6cd463c1566aff7455ed55786d)
+0590.608 (0) Saving backup status to database (elements: 8)
+0590.610 (0) Beginning creation of database dump (WordPress DB)
+0590.612 (0) SQL compatibility mode is: NO_ENGINE_SUBSTITUTION
+0590.644 (0) Table wpjw_options: Total expected rows (approximate): 1156
+0591.226 (0) Table wpjw_options: Rows added in this batch (next record: 3301): 533 (uncompressed bytes in this segment=5643680) in 0.58 seconds
+0591.262 (0) The time we have been running (591.3) is approaching the resumption interval (621) - increasing resumption interval to 622
+0591.265 (0) Table wpjw_options: finishing file(s) (2, 558 KB)
+0591.269 (0) Table wpjw_users: Total expected rows (approximate): 1
+0591.272 (0) Table wpjw_users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1423) in 0.00 seconds
+0591.276 (0) Table wpjw_users: finishing file(s) (2, 0.6 KB)
+0591.279 (0) Table wpjw_usermeta: Total expected rows (approximate): 34
+0591.284 (0) Table wpjw_usermeta: Rows added in this batch (next record: 35): 34 (uncompressed bytes in this segment=4198) in 0.00 seconds
+0591.289 (0) Table wpjw_usermeta: finishing file(s) (2, 1.7 KB)
+0591.292 (0) Table wpjw_actionscheduler_actions: Total expected rows (approximate): 26
+0591.298 (0) Table wpjw_actionscheduler_actions: Rows added in this batch (next record: 117): 26 (uncompressed bytes in this segment=14489) in 0.00 seconds
+0591.303 (0) Table wpjw_actionscheduler_actions: finishing file(s) (2, 1.6 KB)
+0591.306 (0) Table wpjw_actionscheduler_claims: Total expected rows (approximate): 0
+0591.308 (0) Table wpjw_actionscheduler_claims: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=645) in 0.00 seconds
+0591.311 (0) Table wpjw_actionscheduler_claims: finishing file(s) (2, 0.4 KB)
+0591.314 (0) Table wpjw_actionscheduler_groups: Total expected rows (approximate): 2
+0591.317 (0) Table wpjw_actionscheduler_groups: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=720) in 0.00 seconds
+0591.321 (0) Table wpjw_actionscheduler_groups: finishing file(s) (2, 0.4 KB)
+0591.324 (0) Table wpjw_actionscheduler_logs: Total expected rows (approximate): 70
+0591.327 (0) Table wpjw_actionscheduler_logs: Rows added in this batch (next record: 313): 70 (uncompressed bytes in this segment=6797) in 0.00 seconds
+0591.331 (0) Table wpjw_actionscheduler_logs: finishing file(s) (2, 1.1 KB)
+0591.334 (0) Table wpjw_commentmeta: Total expected rows (approximate): 0
+0591.338 (0) Table wpjw_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=697) in 0.00 seconds
+0591.343 (0) Table wpjw_commentmeta: finishing file(s) (2, 0.4 KB)
+0591.346 (0) Table wpjw_comments: Total expected rows (approximate): 1
+0591.350 (0) Table wpjw_comments: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=2198) in 0.00 seconds
+0591.354 (0) Table wpjw_comments: finishing file(s) (2, 0.8 KB)
+0591.359 (0) Table wpjw_links: Total expected rows (approximate): 0
+0591.361 (0) Table wpjw_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1322) in 0.00 seconds
+0591.365 (0) Table wpjw_links: finishing file(s) (2, 0.5 KB)
+0591.370 (0) Table wpjw_postmeta: Total expected rows (approximate): 1566
+0591.616 (0) Table wpjw_postmeta: Rows added in this batch (next record: 2139): 1815 (uncompressed bytes in this segment=4067068) in 0.25 seconds
+0591.659 (0) Table wpjw_postmeta: finishing file(s) (2, 211.4 KB)
+0591.663 (0) Table wpjw_posts: Total expected rows (approximate): 175
+0591.685 (0) Table wpjw_posts: Rows added in this batch (next record: 25235): 208 (uncompressed bytes in this segment=566267) in 0.02 seconds
+0591.701 (0) Table wpjw_posts: finishing file(s) (2, 25.3 KB)
+0591.704 (0) Table wpjw_term_relationships: Total expected rows (approximate): 14
+0591.707 (0) Table wpjw_term_relationships: Rows added in this batch (next record: 100000): 14 (uncompressed bytes in this segment=917) in 0.00 seconds
+0591.713 (0) Table wpjw_term_relationships: finishing file(s) (2, 0.4 KB)
+0591.716 (0) Table wpjw_term_taxonomy: Total expected rows (approximate): 30
+0591.721 (0) Table wpjw_term_taxonomy: Rows added in this batch (next record: 30): 30 (uncompressed bytes in this segment=2087) in 0.00 seconds
+0591.725 (0) Table wpjw_term_taxonomy: finishing file(s) (2, 0.7 KB)
+0591.730 (0) Table wpjw_termmeta: Total expected rows (approximate): 9
+0591.734 (0) Table wpjw_termmeta: Rows added in this batch (next record: 9): 9 (uncompressed bytes in this segment=1127) in 0.00 seconds
+0591.738 (0) Table wpjw_termmeta: finishing file(s) (2, 0.5 KB)
+0591.741 (0) Table wpjw_terms: Total expected rows (approximate): 30
+0591.744 (0) Table wpjw_terms: Rows added in this batch (next record: 30): 30 (uncompressed bytes in this segment=1753) in 0.00 seconds
+0591.750 (0) Table wpjw_terms: finishing file(s) (2, 0.7 KB)
+0591.754 (0) Table wpjw_nf3_action_meta: Total expected rows (approximate): 209
+0591.761 (0) Table wpjw_nf3_action_meta: Rows added in this batch (next record: 198): 198 (uncompressed bytes in this segment=15473) in 0.01 seconds
+0591.766 (0) Table wpjw_nf3_action_meta: finishing file(s) (2, 2.6 KB)
+0591.769 (0) Table wpjw_nf3_actions: Total expected rows (approximate): 8
+0591.774 (0) Table wpjw_nf3_actions: Rows added in this batch (next record: 8): 8 (uncompressed bytes in this segment=1444) in 0.00 seconds
+0591.778 (0) Table wpjw_nf3_actions: finishing file(s) (2, 0.6 KB)
+0591.783 (0) Table wpjw_nf3_chunks: Total expected rows (approximate): 0
+0591.787 (0) Table wpjw_nf3_chunks: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=443) in 0.00 seconds
+0591.792 (0) Table wpjw_nf3_chunks: finishing file(s) (2, 0.3 KB)
+0591.797 (0) Table wpjw_nf3_field_meta: Total expected rows (approximate): 437
+0591.808 (0) Table wpjw_nf3_field_meta: Rows added in this batch (next record: 507): 479 (uncompressed bytes in this segment=52715) in 0.01 seconds
+0591.812 (0) Table wpjw_nf3_field_meta: finishing file(s) (2, 5.4 KB)
+0591.816 (0) Table wpjw_nf3_fields: Total expected rows (approximate): 15
+0591.821 (0) Table wpjw_nf3_fields: Rows added in this batch (next record: 17): 15 (uncompressed bytes in this segment=3344) in 0.00 seconds
+0591.826 (0) Table wpjw_nf3_fields: finishing file(s) (2, 1 KB)
+0591.829 (0) Table wpjw_nf3_form_meta: Total expected rows (approximate): 123
+0591.835 (0) Table wpjw_nf3_form_meta: Rows added in this batch (next record: 123): 123 (uncompressed bytes in this segment=10878) in 0.01 seconds
+0591.839 (0) Table wpjw_nf3_form_meta: finishing file(s) (2, 2 KB)
+0591.842 (0) Table wpjw_nf3_forms: Total expected rows (approximate): 2
+0591.846 (0) Table wpjw_nf3_forms: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=1248) in 0.00 seconds
+0591.850 (0) Table wpjw_nf3_forms: finishing file(s) (2, 0.6 KB)
+0591.854 (0) Table wpjw_nf3_object_meta: Total expected rows (approximate): 0
+0591.858 (0) Table wpjw_nf3_object_meta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=544) in 0.00 seconds
+0591.862 (0) Table wpjw_nf3_object_meta: finishing file(s) (2, 0.3 KB)
+0591.865 (0) Table wpjw_nf3_objects: Total expected rows (approximate): 0
+0591.869 (0) Table wpjw_nf3_objects: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=586) in 0.00 seconds
+0591.873 (0) Table wpjw_nf3_objects: finishing file(s) (2, 0.4 KB)
+0591.877 (0) Table wpjw_nf3_relationships: Total expected rows (approximate): 0
+0591.880 (0) Table wpjw_nf3_relationships: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=688) in 0.00 seconds
+0591.884 (0) Table wpjw_nf3_relationships: finishing file(s) (2, 0.4 KB)
+0591.887 (0) Table wpjw_nf3_upgrades: Total expected rows (approximate): 1
+0591.892 (0) Table wpjw_nf3_upgrades: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=42242) in 0.00 seconds
+0591.897 (0) Table wpjw_nf3_upgrades: finishing file(s) (2, 4.9 KB)
+0591.901 (0) Table wpjw_wc_admin_note_actions: Total expected rows (approximate): 39
+0591.905 (0) Table wpjw_wc_admin_note_actions: Rows added in this batch (next record: 219): 39 (uncompressed bytes in this segment=7486) in 0.00 seconds
+0591.910 (0) Table wpjw_wc_admin_note_actions: finishing file(s) (2, 1.9 KB)
+0591.914 (0) Table wpjw_wc_admin_notes: Total expected rows (approximate): 31
+0591.918 (0) Table wpjw_wc_admin_notes: Rows added in this batch (next record: 36): 36 (uncompressed bytes in this segment=19853) in 0.00 seconds
+0591.923 (0) Table wpjw_wc_admin_notes: finishing file(s) (2, 5 KB)
+0591.927 (0) Table wpjw_wc_category_lookup: Total expected rows (approximate): 1
+0591.929 (0) Table wpjw_wc_category_lookup: Rows added in this batch (next record: 1000): 1 (uncompressed bytes in this segment=603) in 0.00 seconds
+0591.933 (0) Table wpjw_wc_category_lookup: finishing file(s) (2, 0.3 KB)
+0591.937 (0) Table wpjw_wc_customer_lookup: Total expected rows (approximate): 0
+0591.939 (0) Table wpjw_wc_customer_lookup: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1278) in 0.00 seconds
+0591.943 (0) Table wpjw_wc_customer_lookup: finishing file(s) (2, 0.5 KB)
+0591.949 (0) Table wpjw_wc_download_log: Total expected rows (approximate): 0
+0591.951 (0) Table wpjw_wc_download_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=942) in 0.00 seconds
+0591.954 (0) Table wpjw_wc_download_log: finishing file(s) (2, 0.5 KB)
+0591.959 (0) Table wpjw_wc_order_coupon_lookup: Total expected rows (approximate): 0
+0591.960 (0) Table wpjw_wc_order_coupon_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=729) in 0.00 seconds
+0591.964 (0) Table wpjw_wc_order_coupon_lookup: finishing file(s) (2, 0.4 KB)
+0591.968 (0) Table wpjw_wc_order_product_lookup: Total expected rows (approximate): 0
+0591.970 (0) Table wpjw_wc_order_product_lookup: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1239) in 0.00 seconds
+0591.973 (0) Table wpjw_wc_order_product_lookup: finishing file(s) (2, 0.5 KB)
+0591.978 (0) Table wpjw_wc_order_stats: Total expected rows (approximate): 0
+0591.986 (0) Table wpjw_wc_order_stats: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1134) in 0.00 seconds
+0591.989 (0) Table wpjw_wc_order_stats: finishing file(s) (2, 0.5 KB)
+0591.993 (0) Table wpjw_wc_order_tax_lookup: Total expected rows (approximate): 0
+0591.995 (0) Table wpjw_wc_order_tax_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=811) in 0.00 seconds
+0591.998 (0) Table wpjw_wc_order_tax_lookup: finishing file(s) (2, 0.4 KB)
+0592.003 (0) Table wpjw_wc_product_meta_lookup: Total expected rows (approximate): 0
+0592.005 (0) Table wpjw_wc_product_meta_lookup: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1373) in 0.00 seconds
+0592.007 (0) The time we have been running (592) is approaching the resumption interval (622) - increasing resumption interval to 623
+0592.010 (0) Table wpjw_wc_product_meta_lookup: finishing file(s) (2, 0.5 KB)
+0592.014 (0) Table wpjw_wc_reserved_stock: Total expected rows (approximate): 0
+0592.016 (0) Table wpjw_wc_reserved_stock: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=677) in 0.00 seconds
+0592.019 (0) Table wpjw_wc_reserved_stock: finishing file(s) (2, 0.4 KB)
+0592.023 (0) Table wpjw_wc_tax_rate_classes: Total expected rows (approximate): 2
+0592.025 (0) Table wpjw_wc_tax_rate_classes: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=826) in 0.00 seconds
+0592.029 (0) Table wpjw_wc_tax_rate_classes: finishing file(s) (2, 0.4 KB)
+0592.032 (0) Table wpjw_wc_webhooks: Total expected rows (approximate): 0
+0592.034 (0) Table wpjw_wc_webhooks: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1242) in 0.00 seconds
+0592.038 (0) Table wpjw_wc_webhooks: finishing file(s) (2, 0.5 KB)
+0592.042 (0) Table wpjw_woocommerce_api_keys: Total expected rows (approximate): 0
+0592.046 (0) Table wpjw_woocommerce_api_keys: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1058) in 0.00 seconds
+0592.050 (0) Table wpjw_woocommerce_api_keys: finishing file(s) (2, 0.5 KB)
+0592.054 (0) Table wpjw_woocommerce_attribute_taxonomies: Total expected rows (approximate): 0
+0592.056 (0) Table wpjw_woocommerce_attribute_taxonomies: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=973) in 0.00 seconds
+0592.060 (0) Table wpjw_woocommerce_attribute_taxonomies: finishing file(s) (2, 0.4 KB)
+0592.064 (0) Table wpjw_woocommerce_downloadable_product_permissions: Total expected rows (approximate): 0
+0592.067 (0) Table wpjw_woocommerce_downloadable_product_permissions: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1550) in 0.00 seconds
+0592.070 (0) Table wpjw_woocommerce_downloadable_product_permissions: finishing file(s) (2, 0.5 KB)
+0592.074 (0) Table wpjw_woocommerce_log: Total expected rows (approximate): 0
+0592.078 (0) Table wpjw_woocommerce_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=734) in 0.00 seconds
+0592.082 (0) Table wpjw_woocommerce_log: finishing file(s) (2, 0.4 KB)
+0592.087 (0) Table wpjw_woocommerce_order_itemmeta: Total expected rows (approximate): 0
+0592.091 (0) Table wpjw_woocommerce_order_itemmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=783) in 0.00 seconds
+0592.095 (0) Table wpjw_woocommerce_order_itemmeta: finishing file(s) (2, 0.4 KB)
+0592.099 (0) Table wpjw_woocommerce_order_items: Total expected rows (approximate): 0
+0592.101 (0) Table wpjw_woocommerce_order_items: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=751) in 0.00 seconds
+0592.105 (0) Table wpjw_woocommerce_order_items: finishing file(s) (2, 0.4 KB)
+0592.108 (0) Table wpjw_woocommerce_payment_tokenmeta: Total expected rows (approximate): 0
+0592.113 (0) Table wpjw_woocommerce_payment_tokenmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=810) in 0.00 seconds
+0592.117 (0) Table wpjw_woocommerce_payment_tokenmeta: finishing file(s) (2, 0.4 KB)
+0592.121 (0) Table wpjw_woocommerce_payment_tokens: Total expected rows (approximate): 0
+0592.124 (0) Table wpjw_woocommerce_payment_tokens: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=853) in 0.00 seconds
+0592.128 (0) Table wpjw_woocommerce_payment_tokens: finishing file(s) (2, 0.4 KB)
+0592.132 (0) Table wpjw_woocommerce_sessions: Total expected rows (approximate): 1
+0592.136 (0) Table wpjw_woocommerce_sessions: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=2150) in 0.00 seconds
+0592.140 (0) Table wpjw_woocommerce_sessions: finishing file(s) (2, 0.8 KB)
+0592.144 (0) Table wpjw_woocommerce_shipping_zone_locations: Total expected rows (approximate): 0
+0592.146 (0) Table wpjw_woocommerce_shipping_zone_locations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=886) in 0.00 seconds
+0592.149 (0) Table wpjw_woocommerce_shipping_zone_locations: finishing file(s) (2, 0.4 KB)
+0592.153 (0) Table wpjw_woocommerce_shipping_zone_methods: Total expected rows (approximate): 0
+0592.155 (0) Table wpjw_woocommerce_shipping_zone_methods: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=787) in 0.00 seconds
+0592.160 (0) Table wpjw_woocommerce_shipping_zone_methods: finishing file(s) (2, 0.4 KB)
+0592.163 (0) Table wpjw_woocommerce_shipping_zones: Total expected rows (approximate): 0
+0592.165 (0) Table wpjw_woocommerce_shipping_zones: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=645) in 0.00 seconds
+0592.171 (0) Table wpjw_woocommerce_shipping_zones: finishing file(s) (2, 0.4 KB)
+0592.175 (0) Table wpjw_woocommerce_tax_rate_locations: Total expected rows (approximate): 0
+0592.178 (0) Table wpjw_woocommerce_tax_rate_locations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=860) in 0.00 seconds
+0592.181 (0) Table wpjw_woocommerce_tax_rate_locations: finishing file(s) (2, 0.4 KB)
+0592.186 (0) Table wpjw_woocommerce_tax_rates: Total expected rows (approximate): 0
+0592.188 (0) Table wpjw_woocommerce_tax_rates: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1313) in 0.00 seconds
+0592.193 (0) Table wpjw_woocommerce_tax_rates: finishing file(s) (2, 0.5 KB)
+0592.201 (0) Table wpjw_wpforms_tasks_meta: Total expected rows (approximate): 8
+0592.205 (0) Table wpjw_wpforms_tasks_meta: Rows added in this batch (next record: 8): 8 (uncompressed bytes in this segment=1303) in 0.00 seconds
+0592.210 (0) Table wpjw_wpforms_tasks_meta: finishing file(s) (2, 0.6 KB)
+0592.213 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_options.table.tmpr3302.gz (1/55/fopen): adding to final database dump
+0592.955 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_options.table.gz (2/55/fopen): adding to final database dump
+0592.957 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_users.table.tmpr2.gz (3/55/fopen): adding to final database dump
+0592.958 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_users.table.gz (4/55/fopen): adding to final database dump
+0592.959 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_usermeta.table.tmpr36.gz (5/55/fopen): adding to final database dump
+0592.959 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_usermeta.table.gz (6/55/fopen): adding to final database dump
+0592.960 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_actionscheduler_actions.table.tmpr118.gz (7/55/fopen): adding to final database dump
+0592.961 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_actionscheduler_actions.table.gz (8/55/fopen): adding to final database dump
+0592.961 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_actionscheduler_claims.table.tmpr0.gz (9/55/fopen): adding to final database dump
+0592.962 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_actionscheduler_claims.table.gz (10/55/fopen): adding to final database dump
+0592.963 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_actionscheduler_groups.table.tmpr3.gz (11/55/fopen): adding to final database dump
+0592.963 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_actionscheduler_groups.table.gz (12/55/fopen): adding to final database dump
+0592.964 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_actionscheduler_logs.table.tmpr314.gz (13/55/fopen): adding to final database dump
+0592.965 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_actionscheduler_logs.table.gz (14/55/fopen): adding to final database dump
+0592.965 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_commentmeta.table.tmpr0.gz (15/55/fopen): adding to final database dump
+0592.966 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_commentmeta.table.gz (16/55/fopen): adding to final database dump
+0592.967 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_comments.table.tmpr2.gz (17/55/fopen): adding to final database dump
+0592.968 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_comments.table.gz (18/55/fopen): adding to final database dump
+0592.968 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_links.table.tmpr0.gz (19/55/fopen): adding to final database dump
+0592.969 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_links.table.gz (20/55/fopen): adding to final database dump
+0592.970 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_postmeta.table.tmpr2140.gz (21/55/fopen): adding to final database dump
+0593.253 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_postmeta.table.gz (22/55/fopen): adding to final database dump
+0593.260 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_posts.table.tmpr25236.gz (23/55/fopen): adding to final database dump
+0593.290 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_posts.table.gz (24/55/fopen): adding to final database dump
+0593.291 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_term_relationships.table.tmpr100001.gz (25/55/fopen): adding to final database dump
+0593.296 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_term_relationships.table.gz (26/55/fopen): adding to final database dump
+0593.297 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_term_taxonomy.table.tmpr31.gz (27/55/fopen): adding to final database dump
+0593.298 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_term_taxonomy.table.gz (28/55/fopen): adding to final database dump
+0593.298 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_termmeta.table.tmpr10.gz (29/55/fopen): adding to final database dump
+0593.301 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_termmeta.table.gz (30/55/fopen): adding to final database dump
+0593.302 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_terms.table.tmpr31.gz (31/55/fopen): adding to final database dump
+0593.302 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_terms.table.gz (32/55/fopen): adding to final database dump
+0593.303 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_nf3_action_meta.table.tmpr199.gz (33/55/fopen): adding to final database dump
+0593.304 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_nf3_action_meta.table.gz (34/55/fopen): adding to final database dump
+0593.305 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_nf3_actions.table.tmpr9.gz (35/55/fopen): adding to final database dump
+0593.306 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_nf3_actions.table.gz (36/55/fopen): adding to final database dump
+0593.306 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_nf3_chunks.table.tmpr0.gz (37/55/fopen): adding to final database dump
+0593.307 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_nf3_chunks.table.gz (38/55/fopen): adding to final database dump
+0593.308 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_nf3_field_meta.table.tmpr508.gz (39/55/fopen): adding to final database dump
+0593.311 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_nf3_field_meta.table.gz (40/55/fopen): adding to final database dump
+0593.312 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_nf3_fields.table.tmpr18.gz (41/55/fopen): adding to final database dump
+0593.313 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_nf3_fields.table.gz (42/55/fopen): adding to final database dump
+0593.313 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_nf3_form_meta.table.tmpr124.gz (43/55/fopen): adding to final database dump
+0593.317 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_nf3_form_meta.table.gz (44/55/fopen): adding to final database dump
+0593.318 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_nf3_forms.table.tmpr3.gz (45/55/fopen): adding to final database dump
+0593.319 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_nf3_forms.table.gz (46/55/fopen): adding to final database dump
+0593.320 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_nf3_object_meta.table.tmpr0.gz (47/55/fopen): adding to final database dump
+0593.321 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_nf3_object_meta.table.gz (48/55/fopen): adding to final database dump
+0593.322 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_nf3_objects.table.tmpr0.gz (49/55/fopen): adding to final database dump
+0593.323 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_nf3_objects.table.gz (50/55/fopen): adding to final database dump
+0593.324 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_nf3_relationships.table.tmpr0.gz (51/55/fopen): adding to final database dump
+0593.324 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_nf3_relationships.table.gz (52/55/fopen): adding to final database dump
+0593.325 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_nf3_upgrades.table.tmpr3.gz (53/55/fopen): adding to final database dump
+0593.326 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_nf3_upgrades.table.gz (54/55/fopen): adding to final database dump
+0593.327 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_wc_admin_note_actions.table.tmpr220.gz (55/55/fopen): adding to final database dump
+0593.332 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_wc_admin_note_actions.table.gz (56/55/fopen): adding to final database dump
+0593.333 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_wc_admin_notes.table.tmpr37.gz (57/55/fopen): adding to final database dump
+0593.338 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_wc_admin_notes.table.gz (58/55/fopen): adding to final database dump
+0593.339 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_wc_category_lookup.table.tmpr1001.gz (59/55/fopen): adding to final database dump
+0593.340 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_wc_category_lookup.table.gz (60/55/fopen): adding to final database dump
+0593.341 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_wc_customer_lookup.table.tmpr0.gz (61/55/fopen): adding to final database dump
+0593.341 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_wc_customer_lookup.table.gz (62/55/fopen): adding to final database dump
+0593.342 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_wc_download_log.table.tmpr0.gz (63/55/fopen): adding to final database dump
+0593.343 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_wc_download_log.table.gz (64/55/fopen): adding to final database dump
+0593.343 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_wc_order_coupon_lookup.table.tmpr1.gz (65/55/fopen): adding to final database dump
+0593.344 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_wc_order_coupon_lookup.table.gz (66/55/fopen): adding to final database dump
+0593.345 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_wc_order_product_lookup.table.tmpr0.gz (67/55/fopen): adding to final database dump
+0593.345 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_wc_order_product_lookup.table.gz (68/55/fopen): adding to final database dump
+0593.346 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_wc_order_stats.table.tmpr0.gz (69/55/fopen): adding to final database dump
+0593.347 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_wc_order_stats.table.gz (70/55/fopen): adding to final database dump
+0593.348 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_wc_order_tax_lookup.table.tmpr1.gz (71/55/fopen): adding to final database dump
+0593.348 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_wc_order_tax_lookup.table.gz (72/55/fopen): adding to final database dump
+0593.349 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_wc_product_meta_lookup.table.tmpr0.gz (73/55/fopen): adding to final database dump
+0593.350 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_wc_product_meta_lookup.table.gz (74/55/fopen): adding to final database dump
+0593.350 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_wc_reserved_stock.table.tmpr1.gz (75/55/fopen): adding to final database dump
+0593.351 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_wc_reserved_stock.table.gz (76/55/fopen): adding to final database dump
+0593.352 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_wc_tax_rate_classes.table.tmpr3.gz (77/55/fopen): adding to final database dump
+0593.352 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_wc_tax_rate_classes.table.gz (78/55/fopen): adding to final database dump
+0593.353 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_wc_webhooks.table.tmpr0.gz (79/55/fopen): adding to final database dump
+0593.354 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_wc_webhooks.table.gz (80/55/fopen): adding to final database dump
+0593.354 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_woocommerce_api_keys.table.tmpr0.gz (81/55/fopen): adding to final database dump
+0593.355 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_woocommerce_api_keys.table.gz (82/55/fopen): adding to final database dump
+0593.356 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_woocommerce_attribute_taxonomies.table.tmpr0.gz (83/55/fopen): adding to final database dump
+0593.357 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_woocommerce_attribute_taxonomies.table.gz (84/55/fopen): adding to final database dump
+0593.357 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_woocommerce_downloadable_product_permissions.table.tmpr0.gz (85/55/fopen): adding to final database dump
+0593.359 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_woocommerce_downloadable_product_permissions.table.gz (86/55/fopen): adding to final database dump
+0593.360 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_woocommerce_log.table.tmpr0.gz (87/55/fopen): adding to final database dump
+0593.360 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_woocommerce_log.table.gz (88/55/fopen): adding to final database dump
+0593.361 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_woocommerce_order_itemmeta.table.tmpr0.gz (89/55/fopen): adding to final database dump
+0593.362 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_woocommerce_order_itemmeta.table.gz (90/55/fopen): adding to final database dump
+0593.363 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_woocommerce_order_items.table.tmpr0.gz (91/55/fopen): adding to final database dump
+0593.364 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_woocommerce_order_items.table.gz (92/55/fopen): adding to final database dump
+0593.364 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_woocommerce_payment_tokenmeta.table.tmpr0.gz (93/55/fopen): adding to final database dump
+0593.365 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_woocommerce_payment_tokenmeta.table.gz (94/55/fopen): adding to final database dump
+0593.366 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_woocommerce_payment_tokens.table.tmpr0.gz (95/55/fopen): adding to final database dump
+0593.367 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_woocommerce_payment_tokens.table.gz (96/55/fopen): adding to final database dump
+0593.368 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_woocommerce_sessions.table.tmpr2.gz (97/55/fopen): adding to final database dump
+0593.369 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_woocommerce_sessions.table.gz (98/55/fopen): adding to final database dump
+0593.370 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_woocommerce_shipping_zone_locations.table.tmpr0.gz (99/55/fopen): adding to final database dump
+0593.374 (0) The time we have been running (593.4) is approaching the resumption interval (623) - increasing resumption interval to 624
+0593.376 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_woocommerce_shipping_zone_locations.table.gz (100/55/fopen): adding to final database dump
+0593.377 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_woocommerce_shipping_zone_methods.table.tmpr0.gz (101/55/fopen): adding to final database dump
+0593.378 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_woocommerce_shipping_zone_methods.table.gz (102/55/fopen): adding to final database dump
+0593.378 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_woocommerce_shipping_zones.table.tmpr0.gz (103/55/fopen): adding to final database dump
+0593.379 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_woocommerce_shipping_zones.table.gz (104/55/fopen): adding to final database dump
+0593.380 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_woocommerce_tax_rate_locations.table.tmpr0.gz (105/55/fopen): adding to final database dump
+0593.381 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_woocommerce_tax_rate_locations.table.gz (106/55/fopen): adding to final database dump
+0593.381 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_woocommerce_tax_rates.table.tmpr0.gz (107/55/fopen): adding to final database dump
+0593.382 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_woocommerce_tax_rates.table.gz (108/55/fopen): adding to final database dump
+0593.383 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_wpforms_tasks_meta.table.tmpr9.gz (109/55/fopen): adding to final database dump
+0593.383 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db-table-wpjw_wpforms_tasks_meta.table.gz (110/55/fopen): adding to final database dump
+0593.404 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db.gz: finished writing out complete database file (841.7 KB)
+0593.435 (0) Total database tables backed up: 55 (backup_2021-12-23-1606_Education_Planet_906dd78ab679-db.gz, size: 862048, sha1: a23baaba86c03f3ebdfab34545bedfd6c00403c3, sha256: 016665cd6480d8c569ddf6e1d1425d3e94f903d8c20a9eb189317ccceba6c762)
+0593.450 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0593.450 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0593.451 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0593.452 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-others.zip: others: This file has not yet been successfully uploaded: will queue
+0593.452 (0) backup_2021-12-23-1606_Education_Planet_906dd78ab679-db.gz: db: This file has not yet been successfully uploaded: will queue
+0593.453 (0) Saving backup history. Total backup size: 43.7 MB
+0593.456 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0593.458 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0593.460 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-a9e6462f9b2c292aebdeac839ac97201)
+0596.733 (0) Google Drive: quota usage: used=0 MB, total=15360 MB, available=15360 MB
+0596.734 (0) Google Drive: backup_2021-12-23-1606_Education_Planet_906dd78ab679-plugins.zip: Attempting to upload to Google Drive (into folder id: 1GUJX2xcWVqSoxk7KK3ap731ejW4rSGhx)
+0597.856 (0) The time we have been running (597.9) is approaching the resumption interval (624) - increasing resumption interval to 628
+0597.858 (0) Googledrive chunked upload: 3.8 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 60.4 / 53)
+0600.341 (0) The time we have been running (600.3) is approaching the resumption interval (628) - increasing resumption interval to 631
+0600.343 (0) Googledrive chunked upload: 11.3 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 60.4 / 53)
+0605.831 (0) The time we have been running (605.8) is approaching the resumption interval (631) - increasing resumption interval to 636
+0605.833 (0) Googledrive chunked upload: 26.3 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 60.4 / 53)
+0617.179 (0) The time we have been running (617.2) is approaching the resumption interval (636) - increasing resumption interval to 648
+0617.181 (0) Googledrive chunked upload: 56.3 % uploaded (15728640 - increasing chunk size to 16384 KB - memory usage: 60.4 / 53)
+0633.589 (0) The time we have been running (633.6) is approaching the resumption interval (648) - increasing resumption interval to 664
+0633.591 (0) Googledrive chunked upload: 100 % uploaded (15728640)
+0633.594 (0) Google Drive: OK: Archive backup_2021-12-23-1606_Education_Planet_906dd78ab679-plugins.zip uploaded in 36.86 seconds
+0633.595 (0) Recording as successfully uploaded: backup_2021-12-23-1606_Education_Planet_906dd78ab679-plugins.zip
+0633.600 (0) Deleting local file: backup_2021-12-23-1606_Education_Planet_906dd78ab679-plugins.zip: OK
+0634.009 (0) Google Drive: quota usage: used=26.6 MB, total=15360 MB, available=15333.4 MB
+0634.010 (0) Google Drive: backup_2021-12-23-1606_Education_Planet_906dd78ab679-themes.zip: Attempting to upload to Google Drive (into folder id: 1GUJX2xcWVqSoxk7KK3ap731ejW4rSGhx)
+0635.115 (0) The time we have been running (635.1) is approaching the resumption interval (664) - increasing resumption interval to 666
+0635.117 (0) Googledrive chunked upload: 10.6 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 60.4 / 53)
+0637.624 (0) The time we have been running (637.6) is approaching the resumption interval (666) - increasing resumption interval to 668
+0637.626 (0) Googledrive chunked upload: 31.8 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 60.4 / 53)
+0643.111 (0) The time we have been running (643.1) is approaching the resumption interval (668) - increasing resumption interval to 674
+0643.113 (0) Googledrive chunked upload: 74.3 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 60.4 / 53)
+0646.918 (0) The time we have been running (646.9) is approaching the resumption interval (674) - increasing resumption interval to 677
+0646.920 (0) Googledrive chunked upload: 100 % uploaded (7340032)
+0646.923 (0) Google Drive: OK: Archive backup_2021-12-23-1606_Education_Planet_906dd78ab679-themes.zip uploaded in 12.91 seconds
+0646.925 (0) Recording as successfully uploaded: backup_2021-12-23-1606_Education_Planet_906dd78ab679-themes.zip
+0646.929 (0) Deleting local file: backup_2021-12-23-1606_Education_Planet_906dd78ab679-themes.zip: OK
+0647.142 (0) Google Drive: quota usage: used=36 MB, total=15360 MB, available=15324 MB
+0647.143 (0) Google Drive: backup_2021-12-23-1606_Education_Planet_906dd78ab679-uploads.zip: Attempting to upload to Google Drive (into folder id: 1GUJX2xcWVqSoxk7KK3ap731ejW4rSGhx)
+0648.243 (0) The time we have been running (648.2) is approaching the resumption interval (677) - increasing resumption interval to 679
+0648.245 (0) Googledrive chunked upload: 14.7 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 60.4 / 53)
+0650.750 (0) The time we have been running (650.7) is approaching the resumption interval (679) - increasing resumption interval to 681
+0650.752 (0) Googledrive chunked upload: 44.2 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 60.4 / 53)
+0656.689 (0) The time we have been running (656.7) is approaching the resumption interval (681) - increasing resumption interval to 687
+0656.691 (0) Googledrive chunked upload: 100 % uploaded (3145728)
+0656.694 (0) Google Drive: OK: Archive backup_2021-12-23-1606_Education_Planet_906dd78ab679-uploads.zip uploaded in 9.55 seconds
+0656.695 (0) Recording as successfully uploaded: backup_2021-12-23-1606_Education_Planet_906dd78ab679-uploads.zip
+0656.698 (0) Deleting local file: backup_2021-12-23-1606_Education_Planet_906dd78ab679-uploads.zip: OK
+0656.914 (0) Google Drive: quota usage: used=42.8 MB, total=15360 MB, available=15317.2 MB
+0656.916 (0) Google Drive: backup_2021-12-23-1606_Education_Planet_906dd78ab679-others.zip: Attempting to upload to Google Drive (into folder id: 1GUJX2xcWVqSoxk7KK3ap731ejW4rSGhx)
+0658.005 (0) The time we have been running (658) is approaching the resumption interval (687) - increasing resumption interval to 689
+0658.007 (0) Googledrive chunked upload: 100 % uploaded
+0658.010 (0) Google Drive: OK: Archive backup_2021-12-23-1606_Education_Planet_906dd78ab679-others.zip uploaded in 1.09 seconds
+0658.011 (0) Recording as successfully uploaded: backup_2021-12-23-1606_Education_Planet_906dd78ab679-others.zip
+0658.013 (0) Deleting local file: backup_2021-12-23-1606_Education_Planet_906dd78ab679-others.zip: OK
+0658.245 (0) Google Drive: quota usage: used=42.8 MB, total=15360 MB, available=15317.2 MB
+0658.247 (0) Google Drive: backup_2021-12-23-1606_Education_Planet_906dd78ab679-db.gz: Attempting to upload to Google Drive (into folder id: 1GUJX2xcWVqSoxk7KK3ap731ejW4rSGhx)
+0659.557 (0) The time we have been running (659.6) is approaching the resumption interval (689) - increasing resumption interval to 690
+0659.559 (0) Googledrive chunked upload: 100 % uploaded
+0659.562 (0) Google Drive: OK: Archive backup_2021-12-23-1606_Education_Planet_906dd78ab679-db.gz uploaded in 1.31 seconds
+0659.563 (0) Recording as successfully uploaded: backup_2021-12-23-1606_Education_Planet_906dd78ab679-db.gz
+0659.566 (0) Deleting local file: backup_2021-12-23-1606_Education_Planet_906dd78ab679-db.gz: OK
+0659.569 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=4, retain_db=4
+0659.570 (0) Number of backup sets in history: 3; groups (db): 1
+0659.571 (0) Examining (for databases) backup set with group_id=0, nonce=906dd78ab679, datestamp=1640275598 (Dec 23 2021 16:06:38)
+0659.571 (0) This backup set is the backup set just made, so will not be deleted.
+0659.571 (0) Examining (for databases) backup set with group_id=0, nonce=e93ce69c3bb5, datestamp=1628866890 (Aug 13 2021 15:01:30)
+0659.571 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0659.572 (0) Examining (for databases) backup set with group_id=0, nonce=e93ce69c3bb5, datestamp=1628866860 (Aug 13 2021 15:01:00)
+0659.572 (0) Number of backup sets in history: 3; groups (files): 1
+0659.572 (0) Examining (for files) backup set with nonce=906dd78ab679, datestamp=1640275598 (Dec 23 2021 16:06:38)
+0659.573 (0) This backup set is the backup set just made, so will not be deleted.
+0659.573 (0) This backup set is the backup set just made, so will not be deleted.
+0659.573 (0) This backup set is the backup set just made, so will not be deleted.
+0659.573 (0) This backup set is the backup set just made, so will not be deleted.
+0659.573 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0659.574 (0) Examining (for files) backup set with nonce=e93ce69c3bb5, datestamp=1628866890 (Aug 13 2021 15:01:30)
+0659.574 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0659.574 (0) Examining (for files) backup set with nonce=e93ce69c3bb5, datestamp=1628866860 (Aug 13 2021 15:01:00)
+0659.574 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0659.575 (0) Retain: saving new backup history (sets now: 3) and finishing retain operation
+0659.578 (0) Resume backup (906dd78ab679, 0): finish run
+0659.579 (0) Decremented the semaphore (fd) by 1
+0659.581 (0) Semaphore (fd) unlocked
+0659.581 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0659.584 (0) No email will/can be sent - the user has not configured an email address.
+0659.585 (0) The backup apparently succeeded and is now complete
